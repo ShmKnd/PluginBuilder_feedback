@@ -192,6 +192,6 @@ Especially useful: notarization flow with different setups (App-Specific Passwor
 ## Privacy and credentials
 
 # Privacy and credentials
-Never include personal information, such as your Apple ID, when submitting feedback.
-Do not include your “App-Specific Password” in the issue, comments, logs, or exported files when submitting feedback.
-Please exercise caution when attaching screenshots or screen recordings. Before sharing your feedback, make sure that your Apple ID, Team ID, Keychain profile name, certificate name, and password fields are not visible.
+- Never include personal information, such as your Apple ID, when submitting feedback.
+- Do not include your “App-Specific Password” in the issue, comments, logs, or exported files when submitting feedback.
+- Please exercise caution when attaching screenshots or screen recordings. Before sharing your feedback, make sure that your Apple ID, Team ID, Keychain profile name, certificate name, and password fields are not visible.
