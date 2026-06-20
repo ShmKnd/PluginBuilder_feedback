@@ -188,3 +188,9 @@ Please open an issue at **[github.com/ShmKnd/PluginBuilder_feedback](https://git
 - Feature requests
 
 Especially useful: notarization flow with different setups (App-Specific Password vs Keychain Profile), non-standard scheme names, and `.xcworkspace` projects.
+
+## Privacy and credentials
+
+- Never send personal information such as your Apple ID.
+- Never include your App-Specific Password in an issue, comment, log, or exported file.
+- Be careful when attaching screenshots or screen recordings. Make sure Apple ID, Team ID, Keychain Profile names, certificate names, and password fields are not visible before sharing them.
